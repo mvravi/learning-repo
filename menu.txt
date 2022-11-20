@@ -1,2 +1,3 @@
 First file created to learn GIT
 I have added a new line to the text file. Next is to commit to the repository
+I need to add one more line to menu.txt
